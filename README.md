@@ -1,4 +1,4 @@
-PAV - P3: detección de pitch
+PAV - P3: detección de pitch - Marta :D
 ============================
 
 Esta práctica se distribuye a través del repositorio GitHub [Práctica 3](https://github.com/albino-pav/P3),
@@ -24,7 +24,7 @@ Para cargar los ficheros en su ordenador personal debe seguir los pasos siguient
 	*	Después de unos segundos, el repositorio contendrá los ficheros originales de la práctica.
 *	En la página principal del repositorio, localice el botón **Branch: master** y úselo para crear una
 	rama nueva con los primeros apellidos de los integrantes del equipo de prácticas separados por guion.
-*	También en la página principal del repositorio, en la pestaña **Settings**, escoja la opción 
+*	También en la página principal del repositorio, en la pestaña **Settings**, escoja la opción
 	**Collaborators** y añada a su compañero de prácticas.
 	*	Éste recibirá un email solicitándole confirmación. Una vez confirmado, tanto él como el propietario
 		podrán gestionar el repositorio, por ejemplo: crear ramas en él o subir las modificaciones de su
@@ -46,7 +46,7 @@ prevista para alrededor del 3 de noviembre de 2019, se informará del procedimie
 ## Acerca de este fichero, README.md, y del lenguaje en que está escrito, Markdown.
 
 README.md es un fichero de texto escrito con un formato denominado _**markdown**_. La principal
-característica de este formato es que, manteniendo la legibilidad cuando se visualiza con herramientas en 
+característica de este formato es que, manteniendo la legibilidad cuando se visualiza con herramientas en
 modo texto (`more`, `less`, editores varios, ...), permite amplias posibilidades de visualización con
 formato en una amplia gama de aplicaciones; muy notablemente, **GitHub**, **Doxygen** y **Facebook**
 (ciertamente, :eyes:).
@@ -64,7 +64,7 @@ modo texto               |modo gráfico           |modo texto                |mo
 - NOTA: **Doxygen** no muestra correctamente el texto con formato de la tabla anterior. Sin embargo, otros
   programas, en particular, **GitHub**, sí lo hacen.
 
-También permite los links, como el siguiente, que permite acceder a los elementos más importantes de la 
+También permite los links, como el siguiente, que permite acceder a los elementos más importantes de la
 sintaxis de este formato desde la página de su creador, _John Gruber_:
 [Sintaxis de Markdown](https://daringfireball.net/projects/markdown/syntax).
 
